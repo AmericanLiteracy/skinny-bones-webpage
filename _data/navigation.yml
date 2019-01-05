@@ -9,3 +9,18 @@
   url: /mission/
   excerpt: "excerpt text mission"
   image: 300x200.gif
+
+- title: history
+  url: /history/
+  excerpt: "excerpt text history"
+  image: 300x200.gif
+
+- title: contact
+  url: /contact/
+  excerpt: "excerpt text contact"
+  image: 300x200.gif
+
+- title: alc_news
+  url: /alc_news/
+  excerpt: "excerpt text alc_news"
+  image: 300x200.gif
