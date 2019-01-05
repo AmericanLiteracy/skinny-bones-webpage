@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: about
+  url: /about/
+  excerpt: "excerpt text about"
+  image: 300x200.gif
+
+- title: mission
+  url: /mission/
+  excerpt: "excerpt text mission"
+  image: 300x200.gif
