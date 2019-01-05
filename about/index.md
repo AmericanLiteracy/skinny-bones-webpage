@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "about title 1"
+title: "About The American Literacy Council"
 ---
 
 The American Literacy Council's main purpose is to convey information on new solutions, innovative technologies, and tools for engaging more boldly in the battle for literacy.
