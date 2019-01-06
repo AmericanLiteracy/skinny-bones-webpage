@@ -2,7 +2,8 @@
 layout: archive
 permalink: /
 title: "A note from the American Literacy Council President"
-feature: logo-american-literacy-council.jpg
+image:
+  feature: logo-american-literacy-council.jpg
 ---
 
 <div class="tiles">
