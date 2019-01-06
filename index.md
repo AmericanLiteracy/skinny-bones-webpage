@@ -25,15 +25,15 @@ American Literacy Council
 
 The American Literacy Council's main purpose is to convey information on new solutions, innovative technologies, and tools for engaging more boldly in the battle for literacy.
 
-[Translator to Reformed Spelling](http://www.americanliteracy.com/betterspell)
-[English Without Limits](http://www.americanliteracy.com/english-without-limits-reading-reform.html) - A free video course of Immersion English for beginners.
-[SoundSpel](http://www.americanliteracy.com/soundspel.html)
-[RKM Alphabet Lessons](http://www.americanliteracy.com/rkm-alphabet-lessons.html)
-[Videos - Media Clips](http://www.americanliteracy.com/media.html)
-[Reading App Mobile 112](http://www.americanliteracy.com/reading-app-mobile-112.html) - Application for your android, tablet, or smart phone - recognizes text and reads out loud for dyslexics.
-[Sound-Write](http://www.americanliteracy.com/sound-write.html)
-[Dictionary of Simplified American Spelling](http://www.americanliteracy.com/Dictionary_of_Simplified_American_Spelling.pdf)
-[Life with Letters](http://www.americanliteracy.com/Life_with_Letters.pdf)
-[Archives](http://www.americanliteracy.com/archived.html) - Internet Explorer required
-[Sitemap](http://www.americanliteracy.com/sitemap.html)
-To volunteer to teach, or to get tutoring in literacy, please visit [ProLiteracy](http://www.proliteracy.org).
+- [Translator to Reformed Spelling](http://www.americanliteracy.com/betterspell)
+- [English Without Limits](http://www.americanliteracy.com/english-without-limits-reading-reform.html) - A free video course of Immersion English for beginners.
+- [SoundSpel](http://www.americanliteracy.com/soundspel.html)
+- [RKM Alphabet Lessons](http://www.americanliteracy.com/rkm-alphabet-lessons.html)
+- [Videos - Media Clips](http://www.americanliteracy.com/media.html)
+- [Reading App Mobile 112](http://www.americanliteracy.com/reading-app-mobile-112.html) - Application for your android, tablet, or smart phone - recognizes text and reads out loud for dyslexics.
+- [Sound-Write](http://www.americanliteracy.com/sound-write.html)
+- [Dictionary of Simplified American Spelling](http://www.americanliteracy.com/Dictionary_of_Simplified_American_Spelling.pdf)
+- [Life with Letters](http://www.americanliteracy.com/Life_with_Letters.pdf)
+- [Archives](http://www.americanliteracy.com/archived.html) - Internet Explorer required
+- [Sitemap](http://www.americanliteracy.com/sitemap.html)
+- To volunteer to teach, or to get tutoring in literacy, please visit [ProLiteracy](http://www.proliteracy.org).
