@@ -3,7 +3,7 @@
 title: "American Literacy Council"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
-teaser: logo-american-literacy-council.jpg
+teaser: /images/logo-american-literacy-council.jpg
 locale: en
 url:
 feed:
