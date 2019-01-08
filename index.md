@@ -27,7 +27,7 @@ American Literacy Council
 
 The American Literacy Council's main purpose is to convey information on new solutions, innovative technologies, and tools for engaging more boldly in the battle for literacy.
 
-- [Translator to Reformed Spelling](http://www.americanliteracy.com/betterspell)
+- [Translator to Reformed Spelling](http://www.americanliteracy.com/betterspell/)
 - [English Without Limits](http://www.americanliteracy.com/english-without-limits-reading-reform.html) - A free video course of Immersion English for beginners.
 - [SoundSpel](http://www.americanliteracy.com/soundspel.html)
 - [RKM Alphabet Lessons](http://www.americanliteracy.com/rkm-alphabet-lessons.html)
